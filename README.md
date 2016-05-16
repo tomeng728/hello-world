@@ -1,2 +1,3 @@
 # hello-world
-INTRO
+
+Hello! This is me just getting started with some Github stuff. 
